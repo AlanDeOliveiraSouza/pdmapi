@@ -1,7 +1,7 @@
 {
   "name": "Laravel + SQLite Dev Container",
   "build": {
-    "dockerfile": "Dockerfile"
+    "dockerfile": "dockerfile"
   },
   "workspaceFolder": "/workspace",
   "forwardPorts": [8000],
